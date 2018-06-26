@@ -1,5 +1,0 @@
-@import "{{ site.theme }}";
-
-div.code {
-    display: none;
-}
