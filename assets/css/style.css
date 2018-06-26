@@ -1,5 +1,0 @@
-@import "{{ site.jekyll-theme-time-machine }}";
-
-div.code {
-    display: none;
-}
